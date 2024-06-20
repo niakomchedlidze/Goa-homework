@@ -1,0 +1,23 @@
+print(2 + 2)
+print(3 + 3)
+print(5 + 5)
+print(4 + 4)
+print(7 + 7)
+
+print(7 - 2)
+print(6 - 5)
+print(8 - 5)
+print(4 - 2)
+print(20 - 15)
+
+print(7 * 7)
+print(8 * 8)
+print(6 * 6)
+print(5 * 5)
+print(20 * 20)
+
+print(25/5)
+print(12/6)
+print(42/7)
+print(48/8)
+print(72/9)
