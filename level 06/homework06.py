@@ -1,0 +1,61 @@
+age = 10
+temperature = 31.5
+year = 2024
+month = 6
+price = 49.60
+score = 20
+place = 1
+number = 29
+hour = 12
+minute = 50
+
+print ( age + temperature)
+print ( temperature * year)
+print (year - month )
+print ( month / price)
+print ( price - score)
+print ( score * place)
+print ( place - number)
+print ( number / hour )
+print ( hour * minute)
+print ( temperature / place)
+print ( number + age)
+print ( place - month)
+print (score / minute)
+print ( minute + year)
+print ( year + score)
+print ( temperature * minute)
+print ( hour * month)
+print ( age / year)
+print ( price - place)
+print ( number / year)
+print ( age * temperature)
+print ( age - minute)
+print ( year / place)
+print ( place * place)
+print ( year * minute)
+print ( hour / month)
+print ( year + place)
+print ( hour * minute)
+print ( number * minute)
+print ( age / place)
+print ( age / month)
+print ( score / place)
+print ( score * place)
+print ( year - place)
+print ( year / month)
+print ( number * temperature)
+print ( temperature + place)
+print ( year - number)
+print ( number * place - month)
+print ( age / place + year)
+print ( year * month - place)
+print ( temperature * year / month)
+print ( temperature + place * month)
+print ( hour + minute - place)
+print ( minute - month / place)
+print ( age * hour - year)
+print ( age + year * minute )
+print ( number * minute - place)
+print ( score / age + place)
+print ( score * hour - minute)
